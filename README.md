@@ -9,13 +9,15 @@
 
 ### Stack
 
-`Kotlin` · `Jetpack Compose` · `Coroutines/Flow` · `CameraX` · `Swift`
-· `Python` · `GitHub Actions`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/stack-dark.svg">
+  <img alt="Stack detectada nos meus repositórios" src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/stack-light.svg">
+</picture>
 
 ### Onde me achar
 
 - 📫 gilbertopapa03@gmail.com
 - 🔗 <!-- TODO: LinkedIn -->
 
-<sub>O card de linguagens acima é gerado semanalmente por GitHub Actions —
-SVG animado, sem serviço externo.</sub>
+<sub>Os dois cards são gerados semanalmente por GitHub Actions a partir dos meus
+repositórios — SVG animado, sem serviço externo.</sub>
