@@ -1,28 +1,33 @@
-## Gilberto Papa
-
-<!-- TODO: sua linha de apresentação. -->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/lang-dark.svg">
-  <img alt="Distribuição de linguagens nos meus repositórios" src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/lang-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/hero-dark.svg">
+  <img alt="Gilberto Papa — desenvolvedor Android e Kotlin. Nos meus projetos pessoais: pull requests mergeados, linhas de código, linguagens e repositórios." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/hero-light.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/lines-dark.svg">
-  <img alt="Linhas de código por linguagem nos meus repositórios" src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/lines-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/project-dark.svg">
+  <img alt="Projetos pessoais: um app Android em produção e três ferramentas para macOS em andamento." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/project-light.svg">
 </picture>
 
-### Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/focus-dark.svg">
+  <img alt="O que eu construo nos projetos pessoais: Android nativo, arquitetura e qualidade, entrega e infra." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/focus-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/code-dark.svg">
+  <img alt="Linhas de código por linguagem nos meus projetos pessoais." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/code-light.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/stack-dark.svg">
-  <img alt="Stack detectada nos meus repositórios" src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/stack-light.svg">
+  <img alt="Stack detectada nos meus projetos pessoais." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/stack-light.svg">
 </picture>
 
-### Onde me achar
+<p>
+  <a href="mailto:gilbertopapa03@gmail.com">📫 gilbertopapa03@gmail.com</a>
+  <!-- TODO: LinkedIn -->
+</p>
 
-- 📫 gilbertopapa03@gmail.com
-- 🔗 <!-- TODO: LinkedIn -->
-
-<sub>Os três cards são gerados semanalmente por GitHub Actions a partir dos meus
-repositórios — SVG animado, sem serviço externo.</sub>
+<sub>Tudo acima vem dos meus <b>projetos pessoais</b>, não do trabalho na empresa.
+Os cards são SVGs animados gerados toda semana por GitHub Actions a partir dos meus
+repositórios, inclusive os privados (só contagens saem de lá), sem serviço externo.</sub>
