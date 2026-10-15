@@ -10,7 +10,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/focus-dark.svg">
-  <img alt="O que eu construo nos projetos pessoais: Android nativo, arquitetura e qualidade, entrega e infra." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/focus-light.svg">
+  <img alt="O que eu construo nos projetos pessoais: multiplataforma, arquitetura e qualidade, entrega e infra." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/focus-light.svg">
 </picture>
 
 <picture>
