@@ -28,6 +28,6 @@
   <!-- TODO: LinkedIn -->
 </p>
 
-<sub>Tudo acima vem dos meus <b>projetos pessoais</b>, não do trabalho na empresa.
+<sub>Tudo acima vem dos meus <b>projetos pessoais</b>.
 Os cards são SVGs animados gerados toda semana por GitHub Actions a partir dos meus
 repositórios, inclusive os privados (só contagens saem de lá), sem serviço externo.</sub>
