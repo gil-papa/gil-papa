@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/hero-dark.svg">
-  <img alt="Gilberto Papa — desenvolvedor Android e Kotlin. Nos meus projetos pessoais: pull requests mergeados, linhas de código, linguagens e repositórios." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/hero-light.svg">
+  <img alt="Nos meus projetos pessoais: pull requests mergeados, linhas de código, linguagens e repositórios." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/hero-light.svg">
 </picture>
 
 <picture>
