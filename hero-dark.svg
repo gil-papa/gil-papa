@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="176" viewBox="0 0 840 176" role="img" aria-label="Nos meus projetos pessoais: 221 pull requests mergeados, 42.560 linhas de código, 8 linguagens, 10 repositórios">
+<defs>
+  <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#8f66ff"/><stop offset="50%" stop-color="#d42ee8"/><stop offset="100%" stop-color="#f0606d"/></linearGradient>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+  <pattern id="pontos" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#b48cff"/></pattern>
+  <linearGradient id="some" x1="0" x2="1"><stop offset="35%" stop-color="#fff" stop-opacity="0"/><stop offset="100%" stop-color="#fff"/></linearGradient>
+  <mask id="mascara"><rect width="840" height="176" fill="url(#some)"/></mask>
+  <clipPath id="borda"><rect width="840" height="176" rx="16"/></clipPath>
+</defs>
+<style>
+  text { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif }
+  .valor  { font-size:40px; letter-spacing:-.01em; font-weight:800; fill:url(#acc); font-variant-numeric:tabular-nums }
+  .escopo { font-size:10px; font-weight:700; letter-spacing:.14em; fill:url(#acc) }
+  .rotulo { font-size:10px; font-weight:600; letter-spacing:.12em; fill:#c9bfe6 }
+  .selo   { font-size:19px; font-weight:800; fill:#fff; letter-spacing:.04em }
+  /* O zero de opacidade mora no @keyframes: sem animação o card aparece. */
+  .up   { animation:up .7s cubic-bezier(.2,.75,.3,1) both }
+  @keyframes up { from { opacity:0; transform:translateY(10px) } to { opacity:1; transform:none } }
+  .gira { transform-origin:702px 88px; animation:gira linear infinite }
+  @keyframes gira { to { transform:rotate(360deg) } }
+  .a1,.a2,.a3 { animation:deriva ease-in-out infinite alternate }
+  .a2 { animation-name:deriva2 } .a3 { animation-name:deriva3 }
+  @keyframes deriva  { to { transform:translate(-40px,26px) } }
+  @keyframes deriva2 { to { transform:translate(-30px,-30px) } }
+  @keyframes deriva3 { to { transform:translate(50px,-16px) } }
+  @media (prefers-reduced-motion:reduce) { * { animation:none !important } }
+</style>
+<g clip-path="url(#borda)">
+  <rect width="840" height="176" fill="#0d0520"/>
+  <g filter="url(#blur)" opacity="0.55"><ellipse class="a1" cx="662" cy="50" rx="170" ry="110" fill="#8f66ff" style="animation-duration:16s"/><ellipse class="a2" cx="792" cy="140" rx="150" ry="100" fill="#d42ee8" style="animation-duration:19s"/><ellipse class="a3" cx="542" cy="165" rx="140" ry="80" fill="#f0606d" style="animation-duration:22s"/></g>
+  <rect width="840" height="176" fill="url(#pontos)" opacity="0.12" mask="url(#mascara)"/>
+  <circle cx="702" cy="88" r="54" fill="none" stroke="#b48cff" stroke-opacity=".28" stroke-dasharray="2 6"/><g class="gira" style="animation-duration:14s"><g transform="rotate(20 702 88)"><circle cx="756" cy="88" r="4.5" fill="#8f66ff"/></g></g><circle cx="702" cy="88" r="78" fill="none" stroke="#b48cff" stroke-opacity=".28" stroke-dasharray="2 6"/><g class="gira" style="animation-duration:22s"><g transform="rotate(200 702 88)"><circle cx="780" cy="88" r="5.5" fill="#d42ee8"/></g></g><circle cx="702" cy="88" r="78" fill="none" stroke="#b48cff" stroke-opacity=".28" stroke-dasharray="2 6"/><g class="gira" style="animation-duration:22s"><g transform="rotate(80 702 88)"><circle cx="780" cy="88" r="3.5" fill="#f0606d"/></g></g>
+  <g class="up" style="animation-delay:200ms">
+    <rect x="672" y="58" width="60" height="60" rx="16" fill="url(#acc)"/>
+    <text class="selo" x="702" y="94.5" text-anchor="middle">&lt;/&gt;</text>
+  </g>
+</g>
+<rect x=".5" y=".5" width="839" height="175" rx="16" fill="none" stroke="#b48cff" stroke-opacity=".22"/>
+<g class="up" style="animation-delay:420ms">
+  <text class="escopo" x="40" y="56">NOS MEUS PROJETOS PESSOAIS</text>
+  <rect x="268.505" y="52" width="341.495" height="1" fill="#b48cff" opacity=".25"/>
+</g>
+  <g class="up" style="animation-delay:520ms"><text class="valor" x="40" y="114">221</text><text class="rotulo" x="40" y="138">PULL REQUESTS MERGEADOS</text></g>
+  <g class="up" style="animation-delay:630ms"><text class="valor" x="233.6" y="114">42.560</text><text class="rotulo" x="233.6" y="138">LINHAS DE CÓDIGO</text></g>
+  <g class="up" style="animation-delay:740ms"><text class="valor" x="423.6" y="114">8</text><text class="rotulo" x="423.6" y="138">LINGUAGENS</text></g>
+  <g class="up" style="animation-delay:850ms"><text class="valor" x="523.6" y="114">10</text><text class="rotulo" x="523.6" y="138">REPOSITÓRIOS</text></g>
+</svg>
