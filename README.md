@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gil-papa/gil-papa/output/project-dark.svg">
-  <img alt="Projetos pessoais: um app Android em produção e três ferramentas para macOS em andamento." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/project-light.svg">
+  <img alt="Projetos pessoais: um app Android em produção; um jogo 2D para Android e três ferramentas para macOS em andamento." src="https://raw.githubusercontent.com/gil-papa/gil-papa/output/project-light.svg">
 </picture>
 
 <picture>
