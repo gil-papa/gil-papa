@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="228" viewBox="0 0 840 228" role="img" aria-label="O que eu construo nos projetos pessoais: Multiplataforma — Jetpack Compose e Material 3, CameraX e Media3: foto e vídeo, Coroutines e Flow; Arquitetura e qualidade — Testes de unidade e de tela, SQLDelight, Koin e Ktor, Código compartilhado com KMP; Entrega e infra — CI com GitHub Actions, Builds de release versionados, Cloudflare: Pages, Workers, e-mail">
+<defs><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#8f66ff"/><stop offset="50%" stop-color="#d42ee8"/><stop offset="100%" stop-color="#f0606d"/></linearGradient></defs>
+<style>
+  text { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif }
+  .kicker { font-size:11px; font-weight:600; fill:#c3c2b7; letter-spacing:.08em }
+  .n { font-size:22px; font-weight:800; fill:url(#acc) }
+  .t { font-size:15px; font-weight:700; fill:#ffffff }
+  .l { font-size:12.5px; fill:#c3c2b7 }
+  .fade { animation:fade .5s ease-out both }
+  @keyframes fade { from { opacity:0; transform:translateY(6px) } to { opacity:1; transform:none } }
+  @media (prefers-reduced-motion:reduce) { * { animation:none !important } }
+</style>
+<rect x=".5" y=".5" width="839" height="227" rx="10" fill="#1a1a19" stroke="#383835"/>
+<g class="fade"><rect x="32" y="34" width="3" height="13" rx="1.5" fill="url(#acc)"/><text class="kicker" x="43" y="45">O QUE EU CONSTRUO NOS PROJETOS PESSOAIS</text></g>
+  <g class="fade" style="animation-delay:160ms"><rect x="32" y="74" width="245.3" height="128" rx="10" fill="#242423" stroke="#3f3f3b"/><text class="n" x="50" y="108">01</text><text class="t" x="87.984" y="107">Multiplataforma</text><circle cx="54" cy="134" r="2.2" fill="url(#acc)"/><text class="l" x="64" y="138">Jetpack Compose e Material 3</text><circle cx="54" cy="155" r="2.2" fill="url(#acc)"/><text class="l" x="64" y="159">CameraX e Media3: foto e vídeo</text><circle cx="54" cy="176" r="2.2" fill="url(#acc)"/><text class="l" x="64" y="180">Coroutines e Flow</text></g>
+  <g class="fade" style="animation-delay:280ms"><rect x="297.33333333333337" y="74" width="245.3" height="128" rx="10" fill="#242423" stroke="#3f3f3b"/><text class="n" x="315.33333333333337" y="108">02</text><text class="t" x="353.31733333333335" y="107">Arquitetura e qualidade</text><circle cx="319.33333333333337" cy="134" r="2.2" fill="url(#acc)"/><text class="l" x="329.33333333333337" y="138">Testes de unidade e de tela</text><circle cx="319.33333333333337" cy="155" r="2.2" fill="url(#acc)"/><text class="l" x="329.33333333333337" y="159">SQLDelight, Koin e Ktor</text><circle cx="319.33333333333337" cy="176" r="2.2" fill="url(#acc)"/><text class="l" x="329.33333333333337" y="180">Código compartilhado com KMP</text></g>
+  <g class="fade" style="animation-delay:400ms"><rect x="562.6666666666667" y="74" width="245.3" height="128" rx="10" fill="#242423" stroke="#3f3f3b"/><text class="n" x="580.6666666666667" y="108">03</text><text class="t" x="618.6506666666668" y="107">Entrega e infra</text><circle cx="584.6666666666667" cy="134" r="2.2" fill="url(#acc)"/><text class="l" x="594.6666666666667" y="138">CI com GitHub Actions</text><circle cx="584.6666666666667" cy="155" r="2.2" fill="url(#acc)"/><text class="l" x="594.6666666666667" y="159">Builds de release versionados</text><circle cx="584.6666666666667" cy="176" r="2.2" fill="url(#acc)"/><text class="l" x="594.6666666666667" y="180">Cloudflare: Pages, Workers, e-mail</text></g>
+</svg>
